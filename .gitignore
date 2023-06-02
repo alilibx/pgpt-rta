@@ -1,0 +1,4 @@
+*.parquet
+*.pkl
+*.bin
+source_documents/
